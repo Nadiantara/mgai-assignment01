@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project generated files
+stilt_house_coordinates/
+terrain_analysis/
+terrain_mapping/
+*.png
+*.log
